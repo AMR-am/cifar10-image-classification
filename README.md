@@ -42,7 +42,7 @@
 إمكانية عرض صورة عشوائية وتوقع تصنيفها
 ##  كيفية الاستخدام
  تأكد من تثبيت المكتبات التالية:
-```bash
+
 pip install tensorflow matplotlib numpy seaborn scikit-learn
 
 ##   تحميل المشروع
