@@ -33,20 +33,20 @@
 - رسم توضيحي لتطور الدقة والخسارة عبر العصور (Epochs).
 - تم اختبار النموذج على صور عشوائية مع عرض التصنيف الحقيقي والمتوقع.
 
-##  كيفية الاستخدام
-1. تأكد من تثبيت المكتبات التالية:
-```bash
-pip install tensorflow matplotlib numpy seaborn scikit-learn ```
-
 ## مخرجات المشروع
 دقة نموذج تتجاوز 70% على بيانات CIFAR-10.
 
 رسوم بيانية توضح أداء النموذج.
 
 إمكانية عرض صورة عشوائية وتوقع تصنيفها
+##  كيفية الاستخدام
+1. تأكد من تثبيت المكتبات التالية:
+```bash
+pip install tensorflow matplotlib numpy seaborn scikit-learn
+
 
 ## تحميل المشروع
 ```bash
 git clone https://github.com/اسم-المستخدم/cifar10-image-classification.git
 cd cifar10-image-classification
-```
+
