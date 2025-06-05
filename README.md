@@ -38,15 +38,15 @@
 
 رسوم بيانية توضح أداء النموذج.
 
+
 إمكانية عرض صورة عشوائية وتوقع تصنيفها
 ##  كيفية الاستخدام
-1. تأكد من تثبيت المكتبات التالية:
+ تأكد من تثبيت المكتبات التالية:
 ```bash
 pip install tensorflow matplotlib numpy seaborn scikit-learn
 
-
-## تحميل المشروع
+##   تحميل المشروع
 ```bash
-git clone https://github.com/اسم-المستخدم/cifar10-image-classification.git
+git clone https://github.com/AMR-am/cifar10-image-classification.git
 cd cifar10-image-classification
 
