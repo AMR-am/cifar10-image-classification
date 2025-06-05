@@ -36,7 +36,7 @@
 ##  كيفية الاستخدام
 1. تأكد من تثبيت المكتبات التالية:
 ```bash
-pip install tensorflow matplotlib numpy seaborn scikit-learn
+pip install tensorflow matplotlib numpy seaborn scikit-learn ```
 
 ## مخرجات المشروع
 دقة نموذج تتجاوز 70% على بيانات CIFAR-10.
@@ -49,3 +49,4 @@ pip install tensorflow matplotlib numpy seaborn scikit-learn
 ```bash
 git clone https://github.com/اسم-المستخدم/cifar10-image-classification.git
 cd cifar10-image-classification
+```
